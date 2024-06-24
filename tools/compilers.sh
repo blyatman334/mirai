@@ -16,18 +16,18 @@ wget https://www.landley.net/aboriginal/downloads/binaries/cross-compiler-sh4.ta
 wget https://www.landley.net/aboriginal/downloads/binaries/cross-compiler-sparc.tar.gz
 wget https://www.landley.net/aboriginal/downloads/binaries/cross-compiler-x86_64.tar.gz
  
-tar -zxvf cross-compiler-armv4l.tar.bz2
-tar -zxvf cross-compiler-armv5l.tar.bz2
-tar -zxvf cross-compiler-armv6l.tar.bz2
-tar -zxvf cross-compiler-i586.tar.bz2
-tar -zxvf cross-compiler-i686.tar.bz2
-tar -zxvf cross-compiler-m68k.tar.bz2
-tar -zxvf cross-compiler-mips.tar.bz2
-tar -zxvf cross-compiler-mipsel.tar.bz2
-tar -zxvf cross-compiler-powerpc.tar.bz2
-tar -zxvf cross-compiler-sh4.tar.bz2
-tar -zxvf cross-compiler-sparc.tar.bz2
-tar -zxvf cross-compiler-x86_64.tar.bz2
+tar -zxvf cross-compiler-armv4l.tar.gz
+tar -zxvf cross-compiler-armv5l.tar.gz
+tar -zxvf cross-compiler-armv6l.tar.gz
+tar -zxvf cross-compiler-i586.tar.gz
+tar -zxvf cross-compiler-i686.tar.gz
+tar -zxvf cross-compiler-m68k.tar.gz
+tar -zxvf cross-compiler-mips.tar.gz
+tar -zxvf cross-compiler-mipsel.tar.gz
+tar -zxvf cross-compiler-powerpc.tar.gz
+tar -zxvf cross-compiler-sh4.tar.gz
+tar -zxvf cross-compiler-sparc.tar.gz
+tar -zxvf cross-compiler-x86_64.tar.gz
  
  
 rm *.tar.gz
